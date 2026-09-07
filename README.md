@@ -1,0 +1,1 @@
+This is Don't let the turtle touch the squares! The objective is to survive 110 seconds so you win. Every ten seconds, another square spawns. The max squares that can spawn is 7. Use the arrow keys to move. if you touch the wall, you bounce off it. 
